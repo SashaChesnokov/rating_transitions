@@ -1,0 +1,5 @@
+venv
+.idea
+rating_transitions/__init__.py
+rating_transitions/__pycache__/
+db.sqlite3
