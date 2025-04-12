@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+{% block content %}
+{% load static %}
+    <div class="container" style="text-align: center;">
+        <h1><b>Наши наставники</b></h1>
+        <hr>
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <img src="{% static 'img/mephi.png' %}" alt="О проекте" class="img-fluid" width="30%">
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <img src="{% static 'img/logo_institute.png' %}" alt="О проекте" class="img-fluid" width="20%">
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <img src="{% static 'img/logo_dep.png' %}" alt="О проекте" class="img-fluid" width="40%">
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <h1><b>Наша команда</b></h1>
+            <hr>
+            <div class="col-lg-4 col-md-6">
+                <div class="team-card text-center">
+                    <h3>Букин Денис</h3>
+                    <p class="text-muted">Аналитик данных</p>
+                    <p>Специалист по машинному обучению. Отвечает за разработку и обучение моделей на scikit-learn.</p>
+                    <p>buk1n04312@gmail.com</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="team-card text-center">
+                    <h3>Симоненко Михаил</h3>
+                    <p class="text-muted">Разработчик парсеров</p>
+                    <p>Специалист по анализу данных. Отвечает за сбор данных для обучения моделей.</p>
+                    <p>simonenkom0511@gmail.com</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="team-card text-center">
+                    <h3>Чесноков Александр</h3>
+                    <p class="text-muted">Backend-разработчик</p>
+                    <p>Специалист по Django. Отвечает за серверную часть проекта, API и интеграцию с моделями ML.</p>
+                    <p>chesnokov-an-2017@mail.ru</p>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <h3 class="card-title">Офис</h3>
+                        <p class="card-text">Москва, Каширское шоссе, 31</p>
+                        <p class="card-text">Пн-Пт: 8:30 - 17:50</p>
+                        <p class="card-text">Телефон: +7 (967) 066-11-56</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
