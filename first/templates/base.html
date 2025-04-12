@@ -155,19 +155,16 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" href="#">Главная</a>
+                        <a class="nav-link active" href="{% url 'index' %}">Главная</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">О проекте</a>
+                        <a class="nav-link" href="{% url 'about' %}">О проекте</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Методология</a>
+                        <a class="nav-link" href="{% url 'methodology' %}">Методология</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Аналитика</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Контакты</a>
+                        <a class="nav-link" href="{% url 'contacts' %}">Контакты</a>
                     </li>
                 </ul>
             </div>
