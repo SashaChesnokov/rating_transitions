@@ -1,0 +1,425 @@
+May 2025 Rank,Apr 2025 Rank,May 2024 Rank,DBMS
+1.,1.,1.,Oracle
+2.,2.,2.,MySQL
+3.,3.,3.,Microsoft SQL Server
+4.,4.,4.,PostgreSQLDetailed vendor-provided information available
+5.,5.,5.,MongoDBDetailed vendor-provided information available
+6.,6.,9.,Snowflake
+7.,7.,6.,Redis
+8.,9.,8.,IBM Db2
+9.,8.,7.,Elasticsearch
+10.,10.,10.,SQLite
+11.,11.,12.,Apache Cassandra
+12.,12.,15.,Databricks
+13.,13.,11.,Microsoft Access
+14.,14.,13.,MariaDB
+15.,15.,17.,Amazon DynamoDB
+16.,18.,18.,Apache Hive
+17.,16.,16.,Microsoft Azure SQL Database
+18.,17.,14.,Splunk
+19.,19.,19.,Google BigQuery
+20.,20.,23.,Neo4j
+21.,21.,20.,FileMaker
+22.,22.,21.,Teradata
+23.,24.,24.,Apache Solr
+24.,23.,22.,SAP HANA
+25.,25.,25.,SAP Adaptive Server
+26.,26.,27.,Microsoft Azure Cosmos DB
+27.,27.,26.,Apache HBase
+28.,28.,28.,InfluxDB
+29.,29.,33.,Apache Spark (SQL)
+30.,30.,29.,PostGIS
+31.,31.,38.,ClickHouse
+32.,32.,37.,OpenSearch
+33.,33.,30.,Firebird
+34.,35.,32.,Memcached
+35.,34.,35.,Informix
+36.,37.,34.,Amazon Redshift
+37.,36.,31.,Microsoft Azure Synapse Analytics
+38.,38.,36.,Couchbase
+39.,39.,39.,Firebase Realtime Database
+40.,40.,41.,Apache Flink
+41.,41.,40.,Apache Impala
+42.,42.,43.,Vertica
+43.,45.,51.,Google Cloud Firestore
+44.,44.,74.,DuckDB
+45.,48.,49.,H2
+46.,46.,50.,Amazon Aurora
+47.,50.,54.,etcd
+48.,43.,48.,Greenplum
+49.,47.,44.,dBASE
+50.,52.,46.,Netezza
+51.,51.,52.,Realm
+52.,54.,47.,Prometheus
+53.,49.,45.,CouchDB
+54.,53.,53.,Kdb
+55.,55.,42.,Presto
+56.,56.,56.,Sphinx
+57.,57.,57.,Hazelcast
+58.,59.,61.,AerospikeDetailed vendor-provided information available
+59.,58.,64.,Algolia
+60.,60.,66.,Trino
+61.,62.,63.,Microsoft Azure AI Search
+62.,61.,59.,Oracle Essbase
+63.,63.,73.,Graphite
+64.,66.,58.,MarkLogic
+65.,64.,65.,Apache Jackrabbit
+66.,67.,60.,Datastax Enterprise
+67.,68.,67.,Ehcache
+68.,65.,55.,CockroachDB
+69.,70.,68.,ScyllaDB
+70.,69.,62.,SingleStore
+71.,71.,76.,Google Cloud Datastore
+72.,72.,71.,TimescaleDB
+73.,73.,70.,TiDB
+74.,77.,95.,Pinecone
+75.,74.,86.,OpenEdge
+76.,75.,100.,Oracle NoSQL
+77.,76.,72.,Interbase
+78.,88.,79.,SAP SQL Anywhere
+79.,81.,109.,QuestDB
+80.,78.,81.,Ingres
+81.,82.,96.,Apache Ignite
+82.,79.,82.,Riak KV
+83.,80.,85.,RocksDB
+84.,84.,88.,Apache Druid
+85.,83.,69.,Apache Derby
+86.,85.,77.,Microsoft Azure Data Explorer
+87.,87.,113.,Milvus
+88.,89.,90.,ArangoDB
+89.,86.,78.,Virtuoso
+90.,92.,87.,HyperSQL
+91.,91.,93.,OrientDB
+92.,93.,92.,Google Cloud Bigtable
+93.,90.,94.,Adabas
+94.,94.,75.,Microsoft Azure Table Storage
+95.,98.,101.,RavenDB
+96.,95.,91.,GraphDB
+97.,97.,103.,Google Cloud Spanner
+98.,96.,98.,Memgraph
+99.,99.,106.,IBM Cloudant
+100.,102.,99.,GemFire
+101.,101.,84.,Apache Jena - TDB
+102.,104.,147.,OceanBase
+103.,103.,104.,SAP IQ
+104.,108.,114.,Coveo
+105.,105.,105.,RethinkDB
+106.,106.,175.,Qdrant
+107.,100.,89.,Apache Accumulo
+108.,107.,102.,YugabyteDB
+109.,109.,80.,DolphinDB
+110.,110.,83.,InterSystems IRIS
+111.,111.,119.,Amazon Neptune
+112.,113.,97.,"UniData,UniVerse"
+113.,112.,115.,PouchDB
+114.,114.,128.,GridDBDetailed vendor-provided information available
+115.,123.,143.,Weaviate
+116.,118.,122.,Percona Server for MySQL
+117.,117.,112.,MaxDB
+118.,120.,111.,LevelDB
+119.,119.,121.,Chroma
+120.,116.,110.,Infinispan
+121.,115.,118.,Citus
+122.,121.,127.,Apache Drill
+123.,122.,108.,4D
+124.,124.,126.,Apache Phoenix
+125.,126.,116.,CloudKit
+126.,125.,132.,Amazon DocumentDB
+127.,130.,129.,JanusGraph
+128.,136.,120.,NebulaGraph
+129.,127.,125.,LMDB
+130.,137.,123.,Stardog
+131.,129.,117.,Oracle Berkeley DB
+132.,131.,107.,TDengineDetailed vendor-provided information available
+133.,128.,148.,IMS
+134.,132.,130.,Oracle Coherence
+135.,135.,137.,Amazon CloudSearch
+136.,134.,138.,Amazon SimpleDB
+137.,133.,135.,EDB Postgres
+138.,139.,136.,RRDtool
+139.,138.,145.,MonetDB
+140.,149.,162.,VictoriaMetrics
+141.,140.,124.,EXASOL
+142.,143.,150.,Datomic
+143.,148.,173.,Apache IoTDB
+144.,145.,153.,Fauna
+145.,146.,146.,OpenTSDB
+146.,141.,149.,SpatiaLite
+147.,150.,142.,BaseX
+148.,144.,144.,Tarantool
+149.,147.,139.,TigerGraph
+150.,156.,140.,Tibero
+151.,159.,181.,HFSQL
+152.,142.,185.,GBase
+153.,169.,,Valkey
+154.,151.,154.,GridGain
+155.,152.,160.,D3
+156.,153.,159.,jBASE
+157.,154.,131.,Geode
+158.,155.,241.,Alibaba Cloud PolarDB
+159.,157.,133.,Empress
+160.,164.,156.,Dgraph
+161.,158.,152.,Actian NoSQL Database
+162.,160.,177.,Amazon Timestream
+163.,162.,164.,IBM Db2 warehouse
+164.,161.,158.,VoltDB
+165.,163.,155.,Db4o
+166.,165.,161.,ObjectStore
+167.,168.,141.,HEAVY.AI
+168.,167.,188.,Meilisearch
+169.,166.,192.,GigaSpaces
+170.,171.,163.,TimesTen
+171.,175.,171.,Datameer
+172.,183.,205.,TDSQL for MySQL
+173.,170.,168.,Mnesia
+174.,172.,167.,mSQL
+175.,173.,170.,ObjectBox
+176.,179.,203.,SurrealDB
+177.,177.,166.,LiteDB
+178.,181.,165.,SQLBase
+179.,176.,174.,Giraph
+180.,180.,151.,PlanetScale
+181.,182.,179.,EventStoreDB
+182.,185.,214.,Alibaba Cloud MaxCompute
+183.,178.,172.,Apache Kylin
+184.,186.,169.,Cubrid
+185.,191.,209.,Vitess
+186.,184.,196.,Amazon Keyspaces
+187.,187.,183.,openGauss
+188.,174.,189.,StarRocks
+189.,193.,204.,IDMS
+190.,189.,182.,NonStop SQL
+191.,190.,184.,Oracle Rdb
+192.,207.,210.,Typesense
+193.,192.,180.,Apache HAWQ
+194.,196.,223.,eXtremeDB
+195.,195.,176.,GT.M
+196.,199.,178.,DataEase
+197.,197.,190.,FoundationDB
+198.,198.,199.,HPE Ezmeral Data Fabric
+199.,203.,249.,Vespa
+200.,202.,211.,Rockset
+201.,200.,197.,M3DB
+202.,194.,200.,MatrixOne
+203.,201.,195.,NCache
+204.,205.,186.,Altibase
+205.,204.,207.,Alibaba Cloud AnalyticDB for MySQL
+206.,188.,134.,Firebolt
+207.,208.,194.,Infobright
+208.,209.,198.,NuoDB
+209.,210.,201.,Yellowbrick
+210.,206.,202.,ZODB
+211.,212.,231.,Alibaba Cloud AnalyticDB for PostgreSQL
+212.,211.,215.,Xapian
+213.,218.,219.,Blazegraph
+214.,215.,242.,RisingWave
+215.,213.,212.,BigchainDB
+216.,217.,187.,AllegroGraph
+217.,222.,221.,Actian Vector
+218.,214.,206.,Model 204
+219.,219.,228.,SciDB
+220.,216.,213.,GeoMesa
+221.,223.,226.,KeyDB
+222.,220.,208.,eXist-db
+223.,221.,230.,RDF4J
+224.,224.,217.,Datacom/DB
+225.,227.,224.,CrateDB
+226.,226.,227.,SQream DB
+227.,225.,157.,Sedna
+228.,236.,278.,YDB
+229.,230.,218.,Objectivity/DB
+230.,235.,220.,BoltDB
+231.,229.,233.,ObjectDB
+232.,228.,193.,Dolt
+233.,234.,234.,TypeDB
+234.,232.,222.,solidDB
+235.,239.,232.,DBISAM
+236.,237.,216.,1010data
+237.,231.,235.,FrontBase
+238.,233.,251.,R:BASE
+239.,243.,240.,Graph Engine
+240.,238.,248.,Harper
+241.,240.,239.,KairosDB
+242.,241.,252.,SQL.JS
+243.,242.,250.,Splice Machine
+244.,245.,266.,Dragonfly
+245.,246.,245.,atoti
+246.,244.,244.,Apache Doris
+247.,248.,236.,Kinetica
+248.,252.,270.,Apache Pinot
+249.,255.,265.,Alibaba Cloud Log Service
+250.,247.,225.,WebSphere eXtreme Scale
+251.,250.,254.,Percona Server for MongoDB
+252.,251.,243.,NexusDB
+253.,253.,273.,ITTIA
+254.,256.,286.,Fluree
+255.,249.,246.,MapDB
+256.,254.,253.,GemStone/S
+257.,257.,257.,VistaDB
+258.,258.,247.,Scalaris
+259.,260.,262.,Kingbase
+260.,259.,290.,Apache Sedona
+261.,261.,258.,ScaleArc
+262.,263.,299.,Deep Lake
+263.,264.,263.,Rasdaman
+264.,262.,267.,OpenInsight
+265.,271.,271.,SearchBlox
+266.,265.,274.,Marqo
+267.,267.,237.,Hibari
+268.,266.,260.,AlaSQL
+269.,269.,264.,LokiJS
+270.,268.,256.,Postgres-XL
+271.,272.,284.,Comdb2
+272.,273.,261.,Sequoiadb
+273.,279.,269.,Kyligence Enterprise
+274.,281.,283.,Cloudflare Workers KV
+275.,275.,191.,Northgate Reality
+276.,277.,268.,Strabon
+277.,276.,275.,ModeShape
+278.,274.,229.,Perst
+279.,280.,289.,Elassandra
+280.,282.,294.,Starcounter
+281.,270.,277.,Tajo
+282.,283.,280.,Project Voldemort
+283.,291.,312.,Manticore Search
+284.,300.,309.,FeatureBase
+285.,278.,238.,Vald
+286.,287.,281.,4store
+287.,290.,279.,InfiniteGraph
+288.,286.,383.,RaptorDB
+289.,288.,259.,Raima Database Manager
+290.,295.,287.,Databend
+291.,285.,272.,CnosDB
+292.,293.,298.,OpenQM
+293.,289.,320.,MyScale
+294.,292.,305.,Immudb
+295.,297.,285.,Fujitsu Enterprise Postgres
+296.,298.,291.,LeanXcale
+297.,294.,288.,Brytlyt
+298.,299.,306.,Alibaba Cloud TSDB
+299.,296.,308.,RDFox
+300.,322.,383.,chDB
+301.,301.,282.,Redland
+302.,308.,327.,Valentina Server
+303.,302.,322.,RedStore
+304.,319.,318.,Faircom DB
+305.,311.,292.,Axibase
+306.,305.,340.,YTsaurus
+307.,303.,313.,Actian FastObjects
+308.,314.,307.,AnzoGraph DB
+309.,304.,296.,Mimer SQL
+310.,284.,338.,Actian PSQL
+311.,313.,317.,YottaDB
+312.,312.,323.,IBM Db2 Event Store
+313.,309.,331.,Badger
+314.,307.,343.,XTDB
+315.,306.,,FalkorDB
+316.,310.,302.,PipelineDB
+317.,320.,319.,Riak TS
+318.,317.,336.,Apache HugeGraph
+319.,316.,326.,TransLattice
+320.,333.,332.,Quasardb
+321.,337.,315.,Speedb
+322.,315.,301.,Alibaba Cloud Table Store
+323.,318.,310.,Tibco ComputeDB
+324.,321.,328.,NEventStore
+325.,335.,352.,GreptimeDB
+326.,324.,335.,Ultipa
+327.,336.,325.,TerminusDB
+328.,332.,337.,Mulgara
+329.,323.,333.,XtremeData
+330.,326.,324.,HyperGraphDB
+331.,334.,349.,Warp 10
+332.,325.,329.,EsgynDB
+333.,329.,333.,BigObject
+333.,329.,295.,ElevateDB
+335.,331.,321.,AgensGraph
+336.,328.,304.,PieCloudDB
+337.,327.,311.,FlockDB
+338.,338.,293.,Lovefield
+339.,339.,297.,EJDB
+340.,346.,347.,Bangdb
+341.,351.,366.,ArcadeDB
+342.,340.,330.,GraphBase
+343.,344.,339.,Machbase Neo
+344.,342.,300.,Kyoto Tycoon
+345.,341.,345.,Sparksee
+346.,345.,356.,SiteWhere
+347.,343.,276.,Jade
+348.,348.,351.,Exorbyte
+349.,350.,342.,CubicWeb
+350.,349.,355.,ScaleOut StateServer
+351.,347.,314.,Tokyo Tyrant
+352.,352.,369.,Tigris
+353.,353.,353.,Blueflood
+353.,353.,316.,Elliptics
+355.,357.,383.,ReductStore
+356.,356.,348.,TinkerGraph
+357.,355.,357.,SenseiDB
+358.,363.,367.,OpenMLDB
+359.,358.,360.,NosDB
+360.,376.,383.,JaguarDB
+361.,359.,303.,AntDB
+362.,382.,383.,Sadas Engine
+363.,360.,364.,WakandaDB
+364.,365.,368.,Faircom EDGE
+365.,361.,365.,JethroData
+365.,361.,360.,STSdb
+367.,364.,255.,Heroic
+368.,366.,370.,Dydra
+369.,367.,371.,SmallSQL
+370.,368.,,Kuzu
+371.,382.,375.,openGemini
+372.,369.,372.,SparkleDB
+373.,370.,373.,Acebase
+374.,371.,374.,Resin Cache
+375.,372.,379.,Hawkular Metrics
+376.,373.,359.,gStore
+377.,374.,376.,SWC-DB
+378.,382.,341.,Transbase
+379.,375.,377.,Eloquera
+380.,378.,363.,OushuDB
+381.,382.,358.,VelocityDB
+382.,379.,380.,Siaqodb
+383.,380.,381.,LedisDB
+384.,381.,382.,SwayDB
+385.,382.,383.,ActorDB
+385.,382.,383.,BergDB
+385.,382.,383.,BrightstarDB
+385.,382.,383.,Cachelot.io
+385.,382.,383.,CortexDB
+385.,382.,383.,CovenantSQL
+385.,382.,383.,DaggerDB
+385.,382.,354.,DataFS
+385.,382.,383.,Edge Intelligence
+385.,382.,383.,EdgelessDB
+385.,382.,383.,Galaxybase
+385.,382.,383.,H2GIS
+385.,382.,383.,Helium
+385.,382.,383.,HGraphDB
+385.,382.,383.,HyperLevelDB
+385.,382.,383.,iBoxDB
+385.,382.,362.,Indica
+385.,382.,378.,InfinityDB
+385.,382.,383.,JasDB
+385.,382.,383.,K-DB
+385.,382.,346.,Linter
+385.,382.,383.,Newts
+385.,382.,383.,NSDb
+385.,382.,383.,OpenTenBase
+385.,382.,383.,OrigoDB
+385.,382.,383.,Rizhiyi
+385.,382.,383.,searchxml
+385.,382.,383.,SiriDB
+385.,377.,383.,Skytable
+385.,382.,383.,SpaceTime
+385.,382.,,SvectorDB
+385.,382.,383.,TerarkDB
+385.,382.,383.,Tkrzw
+385.,382.,383.,TomP2P
+385.,382.,350.,Transwarp ArgoDB
+385.,382.,383.,Transwarp Hippo
+385.,382.,344.,Transwarp KunDB
+385.,382.,383.,Transwarp StellarDB
+385.,382.,383.,Upscaledb
+385.,382.,383.,WhiteDB

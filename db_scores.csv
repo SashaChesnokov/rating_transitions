@@ -1,0 +1,425 @@
+DBMS,Database Model,May 2025 Score,Apr 2025 Score Change,May 2024 Score Change
+Oracle, Relational,1226.57,-4.49,-9.72
+MySQL, Relational,964.98,-22.12,-118.76
+Microsoft SQL Server, Relational, 774.89,-10.12,-49.41
+PostgreSQLDetailed vendor-provided information available, Relational,674.32,+7.07,+28.77
+MongoDBDetailed vendor-provided information available, Document ,402.51,+2.46,-19.14
+Snowflake,Relational,172.01,+3.92,+50.67
+Redis, Key-value ,152.19,-1.92,-5.61
+IBM Db2, Relational,126.40,+0.36,-2.06
+Elasticsearch,Relational,123.81,-4.27,-11.54
+SQLite,Relational,117.77,+3.68,+3.45
+Apache Cassandra, Wide column,108.05,-0.15,+6.16
+Databricks,Relational,102.66,+3.37,+24.05
+Microsoft Access,Relational,95.91,+0.54,-9.01
+MariaDB, Relational, 93.61,-0.73,+0.40
+Amazon DynamoDB,Relational,79.30,+2.81,+5.23
+Apache Hive,Relational,75.77,+3.11,+14.59
+Microsoft Azure SQL Database, Relational, 75.45,+0.08,-2.54
+Splunk,Search engine,71.39,-1.99,-15.06
+Google BigQuery,Relational,62.88,+2.15,+2.50
+Neo4j,Graph,47.91,+0.32,+3.45
+FileMaker,Relational,35.55,-0.93,-12.65
+Teradata, Relational, 33.87,-0.21,-11.45
+Apache Solr, Search engine, 32.79,+0.39,-10.12
+SAP HANA, Relational, 32.01,-1.39,-12.69
+SAP Adaptive Server, Relational ,28.65,-0.14,-7.65
+Microsoft Azure Cosmos DB,Relational,22.94,+0.39,-6.10
+Apache HBase,Wide column,22.62,+0.51,-7.88
+InfluxDB, Time Series, 21.78,+0.24,-4.05
+Apache Spark (SQL),Relational,21.62,+1.22,+2.66
+PostGIS, Spatial, 18.94,-0.67,-3.75
+ClickHouse, Relational, 18.77,+0.04,+2.42
+OpenSearch,Relational,17.38,+0.18,+1.02
+Firebird,Relational,16.66,-0.08,-4.16
+Memcached,Key-value,15.47,+0.49,-3.95
+Informix, Relational, 14.75,-0.32,-3.11
+Amazon Redshift,Relational,14.70,+0.55,-3.24
+Microsoft Azure Synapse Analytics,Relational,14.22,-0.14,-6.33
+Couchbase,Relational,13.82,-0.23,-3.48
+Firebase Realtime Database,Document,13.43,+0.27,-0.87
+Apache Flink,Relational,12.24,+0.83,+0.22
+Apache Impala, Relational,11.68,+0.46,-2.09
+Vertica, Relational, 9.78,-0.07,-0.90
+Google Cloud Firestore,Document,7.51,+0.18,-0.34
+DuckDB,Relational,7.44,+0.06,+2.87
+H2, Relational, 7.26,+0.07,-0.87
+Amazon Aurora, Relational,7.25,-0.07,-0.66
+etcd,Key-value,7.14,+0.09,-0.11
+Greenplum, Relational, 7.08,-0.42,-1.29
+dBASE,Relational,7.01,-0.28,-3.33
+Netezza,Relational,7.01,+0.46,-2.05
+Realm,Document,6.80,+0.04,-0.80
+Prometheus,Time Series,6.77,+0.28,-1.65
+CouchDB, Document, 6.60,-0.57,-2.70
+Kdb,Key-value,6.58,+0.09,-0.96
+Presto,Relational,6.37,+0.09,-4.42
+Sphinx,Search engine,5.72,-0.07,-0.26
+Hazelcast, Key-value,5.58,+0.03,-0.39
+AerospikeDetailed vendor-provided information available,Relational,5.45,+0.22,-0.32
+Algolia,Search engine,5.39,-0.02,+0.08
+Trino, Relational, Multi-modelRelational DBMSDocument storeKey-value storeSpatial DBMSSearch engineTime Series DBMSWide column store ,5.34,+0.15,+0.34
+Microsoft Azure AI Search, Search engine, Multi-modelSearch engineVector DBMS ,5.28,+0.15,-0.31
+Oracle Essbase,Relational,5.04,-0.09,-0.85
+Graphite,Time Series,4.25,0.00,-0.32
+MarkLogic,Multi-modelDocument storeNative XML DBMSRDF storeSearch engine,4.24,+0.11,-1.68
+Apache Jackrabbit,Content,4.08,-0.17,-1.01
+Datastax Enterprise, Wide column, Multi-modelWide column storeDocument storeGraph DBMSSpatial DBMSSearch engineVector DBMS ,4.00,+0.05,-1.80
+Ehcache,Key-value,3.98,+0.04,-0.91
+CockroachDB,Relational,3.90,-0.27,-2.25
+ScyllaDB, Wide column, Multi-modelWide column storeKey-value store ,3.70,0.00,-1.05
+SingleStore, Relational, Multi-modelRelational DBMSDocument storeSpatial DBMSTime Series DBMSVector DBMS ,3.69,-0.25,-1.91
+Google Cloud Datastore,Document,3.62,-0.09,-0.85
+TimescaleDB, Time Series, Multi-modelTime Series DBMSRelational DBMS ,3.59,+0.00,-1.05
+TiDB, Relational, Multi-modelRelational DBMSDocument store ,3.58,+0.09,-1.08
+Pinecone,Vector,3.57,+0.23,+0.40
+OpenEdge,Relational,3.49,+0.03,-0.02
+Oracle NoSQL,Multi-modelDocument storeKey-value storeRelational DBMS,3.39,-0.04,+0.44
+Interbase,Relational,3.35,-0.03,-1.26
+SAP SQL Anywhere,Relational,3.31,+0.41,-0.95
+QuestDB, Time Series, Multi-modelTime Series DBMSRelational DBMS ,3.26,+0.13,+0.73
+Ingres,Relational,3.25,-0.02,-0.86
+Apache Ignite,Multi-modelKey-value storeRelational DBMS,3.23,+0.13,+0.07
+Riak KV,Key-value,3.21,-0.03,-0.89
+RocksDB,Key-value,3.21,+0.07,-0.45
+Apache Druid,Multi-modelRelational DBMSTime Series DBMS,3.18,+0.13,-0.17
+Apache Derby,Relational,3.04,-0.02,-1.67
+Microsoft Azure Data Explorer, Relational, Multi-modelRelational DBMSDocument storeEvent StoreSpatial DBMSSearch engineTime Series DBMS ,3.00,+0.06,-1.39
+Milvus,Vector,2.92,+0.02,+0.61
+ArangoDB,Multi-modelDocument storeGraph DBMSKey-value storeSearch engine,2.85,+0.03,-0.47
+Virtuoso,Multi-modelDocument storeGraph DBMSNative XML DBMSRelational DBMSRDF storeSearch engineSpatial DBMS,2.79,-0.14,-1.47
+HyperSQL,Relational,2.72,+0.02,-0.77
+OrientDB,Multi-modelDocument storeGraph DBMSKey-value store,2.71,-0.01,-0.49
+Google Cloud Bigtable,Multi-modelKey-value storeWide column store,2.66,-0.01,-0.60
+Adabas,Multivalue,2.65,-0.10,-0.52
+Microsoft Azure Table Storage,Wide column,2.64,+0.01,-1.84
+RavenDB, Document, Multi-modelDocument storeGraph DBMSSpatial DBMSTime Series DBMS ,2.59,+0.09,-0.33
+GraphDB,Multi-modelGraph DBMSRDF store,2.59,+0.02,-0.73
+Google Cloud Spanner,Relational,2.56,+0.00,-0.34
+Memgraph,Graph,2.54,-0.03,-0.49
+IBM Cloudant,Document,2.52,+0.03,-0.16
+GemFire, Key-value, Multi-modelKey-value storeDocument store ,2.47,+0.06,-0.52
+Apache Jena - TDB,RDF,2.44,0.00,-1.31
+OceanBase, Relational, Multi-modelRelational DBMSDocument storeWide column store ,2.42,+0.10,+0.76
+SAP IQ,Relational,2.35,+0.01,-0.40
+Coveo,Search engine,2.30,+0.08,+0.02
+RethinkDB, Document, Multi-modelDocument storeSpatial DBMS ,2.30,+0.03,-0.44
+Qdrant,Vector,2.28,+0.05,+1.12
+Apache Accumulo,Wide column,2.22,-0.23,-1.12
+YugabyteDB, Relational, Multi-modelRelational DBMSDocument storeWide column store ,2.20,-0.03,-0.71
+DolphinDB,Multi-modelTime Series DBMSVector DBMSRelational DBMS,2.16,-0.05,-1.98
+InterSystems IRIS,Multi-modelDocument storeKey-value storeObject oriented DBMSRelational DBMS,2.15,-0.05,-1.90
+Amazon Neptune,Multi-modelGraph DBMSRDF store,2.13,+0.02,-0.07
+ UniData,UniVerse ,Multivalue,2.08,+0.07,-1.08
+PouchDB,Document,2.00,-0.07,-0.27
+GridDBDetailed vendor-provided information available, Time Series, Multi-modelTime Series DBMSKey-value storeRelational DBMS ,2.00,+0.00,+0.05
+Weaviate,Vector,1.95,+0.09,+0.22
+Percona Server for MySQL,Relational,1.94,+0.02,-0.09
+MaxDB,Relational,1.94,-0.02,-0.39
+LevelDB,Key-value,1.92,+0.02,-0.43
+Chroma,Vector,1.92,+0.01,-0.15
+Infinispan,Key-value,1.92,-0.07,-0.60
+Citus, Relational, Multi-modelRelational DBMSDocument store ,1.91,-0.08,-0.30
+Apache Drill,Multi-modelDocument storeRelational DBMS,1.89,0.00,-0.05
+4D,Relational,1.88,-0.01,-0.70
+Apache Phoenix,Relational,1.82,+0.01,-0.14
+CloudKit,Document,1.80,+0.02,-0.42
+Amazon DocumentDB,Document,1.80,+0.01,-0.11
+JanusGraph,Graph,1.78,+0.08,-0.16
+NebulaGraph,Graph,1.75,+0.15,-0.38
+LMDB,Key-value,1.75,+0.01,-0.23
+Stardog,Multi-modelGraph DBMSRDF store,1.73,+0.14,-0.30
+Oracle Berkeley DB,Multi-modelKey-value storeNative XML DBMS,1.72,+0.01,-0.50
+TDengineDetailed vendor-provided information available, Time Series, Multi-modelTime Series DBMSRelational DBMS ,1.68,+0.02,-0.91
+IMS,Navigational,1.67,-0.05,+0.03
+Oracle Coherence,Key-value,1.66,+0.01,-0.26
+Amazon CloudSearch,Search engine,1.64,+0.02,-0.21
+Amazon SimpleDB,Key-value,1.63,+0.01,-0.22
+EDB Postgres, Relational, Multi-modelRelational DBMSDocument storeSpatial DBMS ,1.62,-0.02,-0.27
+RRDtool,Time Series,1.58,+0.03,-0.29
+MonetDB, Relational, Multi-modelRelational DBMSDocument storeSpatial DBMS ,1.58,+0.01,-0.14
+VictoriaMetrics,Time Series,1.55,+0.20,+0.23
+EXASOL,Relational,1.51,0.00,-0.49
+Datomic,Relational,1.49,+0.02,-0.10
+Apache IoTDB,Time Series,1.45,+0.06,+0.27
+Fauna,Multi-modelDocument storeGraph DBMSRelational DBMSTime Series DBMS,1.45,-0.01,-0.07
+OpenTSDB,Time Series,1.44,+0.03,-0.23
+SpatiaLite, Spatial, Multi-modelSpatial DBMSRelational DBMS ,1.44,-0.06,-0.17
+BaseX,Native XML,1.43,+0.09,-0.30
+Tarantool,Multi-modelDocument storeKey-value storeRelational DBMSSpatial DBMS,1.42,-0.04,-0.30
+TigerGraph,Graph,1.42,+0.01,-0.41
+Tibero,Relational,1.42,+0.15,-0.36
+HFSQL,Relational,1.35,+0.13,+0.26
+GBase,Relational,1.35,-0.13,+0.28
+Valkey,Key-value,1.35,+0.21,
+GridGain,Multi-modelColumnarKey-value storeObject oriented DBMSRelational DBMS,1.33,+0.00,-0.15
+D3,Multivalue,1.31,-0.01,-0.05
+jBASE,Multivalue,1.31,+0.00,-0.10
+Geode,Key-value,1.31,+0.00,-0.62
+Alibaba Cloud PolarDB,Relational,1.26,-0.03,+0.68
+Empress,Relational,1.26,+0.01,-0.64
+Dgraph,Graph,1.25,+0.06,-0.21
+Actian NoSQL Database,Object oriented,1.24,0.00,-0.28
+Amazon Timestream,Time Series,1.22,0.00,+0.09
+IBM Db2 warehouse,Relational,1.22,+0.03,-0.08
+VoltDB,Relational,1.21,+0.00,-0.23
+Db4o,Object oriented,1.18,-0.01,-0.28
+ObjectStore,Object oriented,1.18,+0.00,-0.18
+HEAVY.AI, Relational, Multi-modelRelational DBMSSpatial DBMS ,1.15,+0.00,-0.62
+Meilisearch,Multi-modelSearch engineVector DBMS,1.14,-0.02,+0.10
+GigaSpaces,Multi-modelDocument storeObject oriented DBMSGraph DBMSSearch engine,1.14,-0.03,+0.17
+TimesTen,Relational,1.14,+0.01,-0.18
+Datameer,Document,1.12,+0.04,-0.07
+TDSQL for MySQL, Relational, Multi-modelRelational DBMSDocument storeSpatial DBMS ,1.12,+0.12,+0.27
+Mnesia,Document,1.12,-0.01,-0.14
+mSQL,Relational,1.11,+0.01,-0.15
+ObjectBox,Multi-modelObject oriented DBMSVector DBMSTime Series DBMS,1.11,+0.02,-0.09
+SurrealDB,Multi-modelDocument storeGraph DBMS,1.08,+0.07,+0.22
+LiteDB,Document,1.07,+0.01,-0.22
+SQLBase,Relational,1.06,+0.06,-0.23
+Giraph,Graph,1.05,0.00,-0.11
+PlanetScale, Relational, Multi-modelRelational DBMSDocument storeSpatial DBMS ,1.05,+0.05,-0.54
+EventStoreDB,Event,1.05,+0.05,-0.05
+Alibaba Cloud MaxCompute,Relational,1.02,+0.07,+0.26
+Apache Kylin,Relational,1.02,+0.01,-0.16
+Cubrid,Relational,1.00,+0.06,-0.20
+Vitess, Relational, Multi-modelRelational DBMSDocument storeSpatial DBMS ,0.99,+0.07,+0.17
+Amazon Keyspaces,Wide column,0.99,0.00,+0.06
+openGauss, Relational, Multi-modelRelational DBMSDocument storeSpatial DBMS ,0.96,+0.02,-0.12
+StarRocks,Relational,0.94,-0.14,-0.10
+IDMS,Navigational,0.94,+0.03,+0.08
+NonStop SQL,Relational,0.93,+0.01,-0.15
+Oracle Rdb,Relational,0.93,+0.01,-0.15
+Typesense,Search engine,0.92,+0.12,+0.13
+Apache HAWQ,Relational,0.91,0.00,-0.18
+eXtremeDB,Multi-modelRelational DBMSTime Series DBMS,0.90,+0.02,+0.16
+GT.M,Key-value,0.90,+0.00,-0.24
+DataEase,Relational,0.89,+0.04,-0.21
+FoundationDB,Multi-modelDocument storeKey-value storeRelational DBMS,0.89,+0.02,-0.14
+HPE Ezmeral Data Fabric,Multi-modelDocument storeWide column store,0.89,+0.02,+0.00
+Vespa,Multi-modelSearch engineVector DBMS,0.89,+0.06,+0.35
+Rockset, Document, Multi-modelDocument storeRelational DBMSSearch engine ,0.88,+0.05,+0.09
+M3DB,Time Series,0.86,+0.00,-0.04
+MatrixOne,Relational,0.85,-0.05,-0.03
+NCache, Key-value, Multi-modelKey-value storeDocument storeSearch engine ,0.85,+0.00,-0.10
+Altibase,Relational,0.85,+0.02,-0.22
+Alibaba Cloud AnalyticDB for MySQL, Relational, Multi-modelRelational DBMSDocument store ,0.84,+0.01,-0.01
+Firebolt,Relational,0.84,-0.10,-1.06
+Infobright,Relational,0.79,+0.01,-0.17
+NuoDB,Relational,0.79,+0.02,-0.10
+Yellowbrick,Relational,0.77,+0.01,-0.11
+ZODB,Key-value,0.75,-0.05,-0.11
+Alibaba Cloud AnalyticDB for PostgreSQL,Relational,0.75,+0.01,+0.07
+Xapian,Search engine,0.75,+0.01,-0.02
+Blazegraph,Multi-modelGraph DBMSRDF store,0.75,+0.04,0.00
+RisingWave,Relational,0.75,+0.02,+0.17
+BigchainDB,Document,0.73,0.00,-0.06
+AllegroGraph,Multi-modelDocument storeGraph DBMSRDF storeVector DBMSSpatial DBMS,0.72,+0.02,-0.33
+Actian Vector,Relational,0.72,+0.04,-0.02
+Model 204,Multivalue,0.72,-0.01,-0.13
+SciDB,Multivalue,0.72,+0.01,+0.02
+GeoMesa,Spatial,0.72,0.00,-0.06
+KeyDB,Key-value,0.71,+0.04,+0.01
+eXist-db,Native XML,0.68,-0.01,-0.16
+RDF4J,RDF,0.68,-0.01,-0.01
+Datacom/DB,Relational,0.67,+0.01,-0.09
+CrateDB,Multi-modelDocument storeSpatial DBMSSearch engineTime Series DBMSVector DBMSRelational DBMS,0.67,+0.03,-0.06
+SQream DB,Relational,0.65,+0.01,-0.05
+Sedna,Native XML,0.63,-0.01,-0.82
+YDB,Multi-modelDocument storeRelational DBMS,0.63,+0.06,+0.28
+Objectivity/DB,Object oriented,0.62,+0.02,-0.13
+BoltDB,Key-value,0.61,+0.03,-0.13
+ObjectDB,Object oriented,0.60,0.00,-0.06
+Dolt, Relational, Multi-modelRelational DBMSDocument store ,0.60,-0.02,-0.36
+TypeDB,Multi-modelGraph DBMSObject oriented DBMSRelational DBMS,0.59,+0.01,-0.06
+solidDB,Relational,0.59,+0.00,-0.15
+DBISAM,Relational,0.59,+0.04,-0.07
+1010data,Relational,0.58,+0.02,-0.18
+FrontBase,Relational,0.58,-0.02,-0.07
+R:BASE,Relational,0.58,0.00,+0.04
+Graph Engine,Multi-modelGraph DBMSKey-value store,0.58,+0.06,-0.04
+Harper,Document,0.56,+0.01,+0.02
+KairosDB,Time Series,0.56,+0.02,-0.05
+SQL.JS,Relational,0.56,+0.01,+0.03
+Splice Machine,Relational,0.54,0.00,0.00
+Dragonfly,Key-value,0.53,+0.02,+0.11
+atoti,Object oriented,0.51,+0.03,-0.04
+Apache Doris,Relational,0.51,-0.01,-0.06
+Kinetica, Relational, Multi-modelRelational DBMSSpatial DBMSTime Series DBMS ,0.50,+0.03,-0.14
+Apache Pinot,Relational,0.50,+0.04,+0.10
+Alibaba Cloud Log Service,Search engine,0.49,+0.05,+0.07
+WebSphere eXtreme Scale,Key-value,0.48,+0.01,-0.23
+Percona Server for MongoDB,Document,0.48,+0.01,-0.05
+NexusDB,Relational,0.47,+0.01,-0.10
+ITTIA, Time Series, Multi-modelTime Series DBMSRelational DBMS ,0.47,+0.02,+0.08
+Fluree,Graph,0.45,+0.02,+0.15
+MapDB,Key-value,0.45,-0.01,-0.10
+GemStone/S,Object oriented,0.43,-0.01,-0.09
+VistaDB,Relational,0.43,+0.01,-0.05
+Scalaris,Key-value,0.42,0.00,-0.13
+Kingbase, Relational, Multi-modelRelational DBMSDocument storeSpatial DBMS ,0.41,+0.00,-0.04
+Apache Sedona,Spatial,0.41,0.00,+0.12
+ScaleArc,Relational,0.41,+0.02,-0.06
+Deep Lake,Vector,0.41,+0.02,+0.14
+Rasdaman,Multivalue,0.39,+0.01,-0.05
+OpenInsight,Multivalue,0.39,0.00,-0.02
+SearchBlox,Search engine,0.38,+0.04,-0.01
+Marqo,Search engine,0.37,+0.01,-0.01
+Hibari,Key-value,0.37,+0.02,-0.27
+AlaSQL,Multi-modelDocument storeRelational DBMS,0.36,+0.01,-0.10
+LokiJS,Document,0.36,+0.02,-0.07
+Postgres-XL, Relational, Multi-modelRelational DBMSDocument storeSpatial DBMS ,0.33,-0.02,-0.15
+Comdb2,Relational,0.33,+0.00,+0.01
+Sequoiadb,Multi-modelDocument storeRelational DBMS,0.32,-0.01,-0.12
+Kyligence Enterprise,Relational,0.32,+0.02,-0.08
+Cloudflare Workers KV,Key-value,0.32,+0.03,-0.01
+Northgate Reality,Multivalue,0.31,-0.01,-0.71
+Strabon,RDF,0.31,+0.00,-0.10
+ModeShape,Content,0.30,-0.01,-0.07
+Perst,Object oriented,0.29,-0.04,-0.40
+Elassandra, Wide column, Multi-modelWide column storeSearch engine ,0.29,+0.00,0.00
+Starcounter,Object oriented,0.28,0.00,0.00
+Tajo,Relational,0.28,-0.06,-0.08
+Project Voldemort,Key-value,0.28,+0.01,-0.06
+Manticore Search, Search engine, Multi-modelSearch engineTime Series DBMS ,0.28,+0.02,+0.06
+FeatureBase,Relational,0.27,+0.05,+0.05
+Vald,Vector,0.27,-0.03,-0.36
+4store,RDF,0.27,+0.00,-0.06
+InfiniteGraph,Graph,0.27,+0.01,-0.07
+RaptorDB,Document,0.27,0.00,+0.27
+Raima Database Manager,Multi-modelRelational DBMSTime Series DBMS,0.27,+0.00,-0.19
+Databend,Relational,0.27,+0.02,-0.03
+CnosDB,Time Series,0.27,0.00,-0.12
+OpenQM,Multivalue,0.27,+0.02,-0.01
+MyScale,Multi-modelRelational DBMSVector DBMS,0.26,+0.00,+0.06
+Immudb, Key-value, Multi-modelKey-value storeRelational DBMS ,0.26,+0.00,+0.02
+Fujitsu Enterprise Postgres, Relational, Multi-modelRelational DBMSDocument storeSpatial DBMS ,0.26,+0.02,-0.06
+LeanXcale,Multi-modelKey-value storeRelational DBMS,0.25,+0.03,-0.04
+Brytlyt,Relational,0.25,+0.00,-0.04
+Alibaba Cloud TSDB,Time Series,0.25,+0.02,+0.01
+RDFox,Multi-modelGraph DBMSRDF storeRelational DBMS,0.24,+0.01,+0.02
+chDB, Relational, Multi-modelRelational DBMSTime Series DBMS ,0.23,+0.08,+0.23
+Redland,RDF,0.23,+0.01,-0.10
+Valentina Server,Relational,0.23,+0.04,+0.06
+RedStore,RDF,0.22,+0.00,+0.03
+Faircom DB,Multi-modelKey-value storeRelational DBMS,0.22,+0.05,+0.02
+Axibase,Time Series,0.22,+0.03,-0.07
+YTsaurus,Multi-modelDocument storeKey-value store,0.22,+0.01,+0.11
+Actian FastObjects,Object oriented,0.21,0.00,0.00
+AnzoGraph DB,Multi-modelGraph DBMSRDF store,0.21,+0.03,-0.02
+Mimer SQL,Relational,0.21,0.00,-0.07
+Actian PSQL,Relational,0.20,-0.07,+0.08
+YottaDB, Key-value, Multi-modelKey-value storeRelational DBMS ,0.20,+0.02,0.00
+IBM Db2 Event Store,Multi-modelEvent StoreTime Series DBMS,0.20,+0.01,+0.01
+Badger,Key-value,0.20,+0.01,+0.06
+XTDB,Document,0.20,0.00,+0.09
+FalkorDB,Graph,0.19,-0.01,
+PipelineDB,Relational,0.19,+0.00,-0.07
+Riak TS,Time Series,0.19,+0.03,-0.01
+Apache HugeGraph,Graph,0.18,+0.01,+0.05
+TransLattice,Relational,0.18,0.00,+0.00
+Quasardb,Time Series,0.17,+0.04,+0.04
+Speedb,Key-value,0.17,+0.05,-0.04
+Alibaba Cloud Table Store,Wide column,0.17,-0.01,-0.09
+Tibco ComputeDB,Relational,0.17,0.00,-0.05
+NEventStore,Event,0.15,0.00,-0.01
+GreptimeDB,Time Series,0.15,+0.02,+0.09
+Ultipa,Graph,0.15,+0.00,+0.02
+TerminusDB, Graph, Multi-modelGraph DBMSDocument storeRDF store ,0.15,+0.02,-0.03
+Mulgara,RDF,0.15,+0.01,+0.02
+XtremeData,Relational,0.15,0.00,+0.01
+HyperGraphDB,Graph,0.15,+0.00,-0.04
+Warp 10,Time Series,0.15,+0.01,+0.08
+EsgynDB,Relational,0.15,0.00,-0.01
+BigObject,Relational,0.14,0.00,+0.01
+ElevateDB,Relational,0.14,0.00,-0.14
+AgensGraph,Multi-modelGraph DBMSRelational DBMS,0.14,0.00,-0.06
+PieCloudDB,Relational,0.13,-0.01,-0.11
+FlockDB,Graph,0.13,-0.02,-0.09
+Lovefield,Relational,0.13,+0.01,-0.16
+EJDB,Document,0.12,+0.01,-0.16
+Bangdb,Multi-modelDocument storeGraph DBMSTime Series DBMSSpatial DBMS,0.11,+0.04,+0.03
+ArcadeDB,Multi-modelDocument storeGraph DBMSKey-value storeTime Series DBMS,0.11,+0.05,+0.09
+GraphBase,Graph,0.11,+0.00,-0.03
+Machbase Neo,Time Series,0.09,+0.01,-0.02
+Kyoto Tycoon,Key-value,0.09,+0.01,-0.17
+Sparksee,Graph,0.09,0.00,0.00
+SiteWhere,Time Series,0.07,0.00,+0.02
+Jade,Object oriented,0.07,-0.01,-0.30
+Exorbyte,Search engine,0.07,+0.01,+0.01
+CubicWeb,RDF,0.06,+0.00,-0.04
+ScaleOut StateServer,Key-value,0.06,0.00,+0.01
+Tokyo Tyrant,Key-value,0.06,-0.01,-0.15
+Tigris,Multi-modelDocument storeKey-value storeSearch engineTime Series DBMS,0.06,0.00,+0.04
+Blueflood,Time Series,0.06,0.00,0.00
+Elliptics,Key-value,0.06,0.00,-0.15
+ReductStore,Time Series,0.06,+0.01,+0.06
+TinkerGraph,Graph,0.05,+0.00,-0.03
+SenseiDB,Document,0.05,0.00,0.00
+OpenMLDB, Time Series, Multi-modelTime Series DBMSRelational DBMS ,0.05,+0.02,+0.02
+NosDB,Document,0.04,0.00,0.00
+JaguarDB,Multi-modelKey-value storeVector DBMS,0.04,+0.03,+0.04
+AntDB,Relational,0.03,+0.00,-0.22
+Sadas Engine,Relational,0.03,+0.03,+0.03
+WakandaDB,Object oriented,0.03,0.00,0.00
+Faircom EDGE,Multi-modelKey-value storeRelational DBMS,0.03,+0.01,+0.01
+JethroData,Relational,0.03,0.00,0.00
+STSdb,Key-value,0.03,0.00,-0.01
+Heroic,Time Series,0.02,+0.00,-0.49
+Dydra,RDF,0.02,0.00,0.00
+SmallSQL,Relational,0.02,+0.00,0.00
+Kuzu,Graph,0.02,+0.00,
+openGemini,Time Series,0.02,+0.02,+0.01
+SparkleDB,RDF,0.02,0.00,0.00
+Acebase,Document,0.01,+0.00,0.00
+Resin Cache,Key-value,0.01,0.00,0.00
+Hawkular Metrics,Time Series,0.01,0.00,+0.01
+gStore,Multi-modelGraph DBMSRDF store,0.01,+0.00,-0.03
+SWC-DB, Wide column, Multi-modelWide column storeTime Series DBMS ,0.01,+0.00,0.00
+Transbase,Relational,0.01,+0.01,-0.10
+Eloquera,Object oriented,0.01,0.00,0.00
+OushuDB,Relational,0.00,+0.00,-0.03
+VelocityDB,Multi-modelGraph DBMSObject oriented DBMS,0.00,+0.00,-0.05
+Siaqodb,Object oriented,0.00,+0.00,+0.00
+LedisDB,Key-value,0.00,+0.00,+0.00
+SwayDB,Key-value,0.00,+0.00,+0.00
+ActorDB,Relational,0.00,±0.00,±0.00
+BergDB,Key-value,0.00,±0.00,±0.00
+BrightstarDB,RDF,0.00,±0.00,±0.00
+Cachelot.io,Key-value,0.00,±0.00,±0.00
+CortexDB,Multi-modelDocument storeKey-value store,0.00,±0.00,±0.00
+CovenantSQL,Relational,0.00,±0.00,±0.00
+DaggerDB,Relational,0.00,±0.00,±0.00
+DataFS, Object oriented, Multi-modelObject oriented DBMSGraph DBMS ,0.00,±0.00,-0.06
+Edge Intelligence,Relational,0.00,±0.00,±0.00
+EdgelessDB,Relational,0.00,±0.00,±0.00
+Galaxybase,Graph,0.00,±0.00,±0.00
+H2GIS, Spatial, Multi-modelSpatial DBMSRelational DBMS ,0.00,±0.00,±0.00
+Helium,Key-value,0.00,±0.00,±0.00
+HGraphDB,Graph,0.00,±0.00,±0.00
+HyperLevelDB,Key-value,0.00,±0.00,±0.00
+iBoxDB,Document,0.00,±0.00,±0.00
+Indica,Search engine,0.00,±0.00,-0.04
+InfinityDB,Key-value,0.00,±0.00,0.00
+JasDB,Document,0.00,±0.00,±0.00
+K-DB,Relational,0.00,±0.00,±0.00
+Linter, Relational, Multi-modelRelational DBMSSpatial DBMS ,0.00,±0.00,-0.09
+Newts,Time Series,0.00,±0.00,±0.00
+NSDb,Time Series,0.00,±0.00,±0.00
+OpenTenBase,Relational,0.00,±0.00,±0.00
+OrigoDB,Multi-modelDocument storeObject oriented DBMS,0.00,±0.00,±0.00
+Rizhiyi, Search engine, Multi-modelSearch engineTime Series DBMS ,0.00,±0.00,±0.00
+searchxml,Multi-modelNative XML DBMSSearch engine,0.00,±0.00,±0.00
+SiriDB,Time Series,0.00,±0.00,±0.00
+Skytable,Key-value,0.00,0.00,±0.00
+SpaceTime, Spatial, Multi-modelSpatial DBMSRelational DBMS ,0.00,±0.00,±0.00
+SvectorDB,Vector,0.00,±0.00,
+TerarkDB,Key-value,0.00,±0.00,±0.00
+Tkrzw,Key-value,0.00,±0.00,±0.00
+TomP2P,Key-value,0.00,±0.00,±0.00
+Transwarp ArgoDB, Relational, Multi-modelRelational DBMSSearch engine ,0.00,±0.00,-0.07
+Transwarp Hippo,Vector,0.00,±0.00,±0.00
+Transwarp KunDB,Relational,0.00,±0.00,-0.10
+Transwarp StellarDB,Graph,0.00,±0.00,±0.00
+Upscaledb,Key-value,0.00,±0.00,±0.00
+WhiteDB,Document,0.00,±0.00,±0.00
