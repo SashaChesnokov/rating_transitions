@@ -15,20 +15,24 @@
                             <th scope="col">Оценка</th>
                             <th scope="col">Изменение за месяц</th>
                             <th scope="col">Изменение за год</th>
+                            <th scope="col">Прогноз на июнь</th>  <!-- Новая колонка -->
                         </tr>
                     </thead>
                     <tbody>
                         {% for db in databases %}
                         <tr>
-                            <th scope="row">{{ db.rank }}</th>
+                            <th scope="row">{{ db.place }}</th>
                             <td><strong>{{ db.name }}</strong></td>
                             <td>{{ db.type }}</td>
                             <td>{{ db.score }}</td>
-                            <td class="{% if db.month_change|first == '+' %}text-success{% elif db.month_change|first == '-' %}text-danger{% endif %}">
-                                {{ db.month_change }}
+                            <td class="{% if db.month_change > 0 %}text-success{% elif db.month_change < 0 %}text-danger{% endif %}">
+                                {{ db.month_change|stringformat:"+.2f" }}
                             </td>
-                            <td class="{% if db.year_change|first == '+' %}text-success{% elif db.year_change|first == '-' %}text-danger{% endif %}">
-                                {{ db.year_change }}
+                            <td class="{% if db.year_change > 0 %}text-success{% elif db.year_change < 0 %}text-danger{% endif %}">
+                                {{ db.year_change|stringformat:"+.2f" }}
+                            </td>
+                            <td class="{% if db.predict > 0 %}text-success{% elif db.predict < 0 %}text-danger{% endif %}">
+                                {{ db.predict|stringformat:"+.2f" }}
                             </td>
                         </tr>
                         {% endfor %}
